@@ -8,7 +8,7 @@ export default function FAQ() {
     >
       <div className="max-w-xl w-11/12 mx-auto">
         <div className="flex flex-col justify-center items-center gap-6 mb-16">
-          <p className="font-bold text-5xl text-center">FAQ's</p>
+          <p className="font-bold text-5xl text-center">FAQ&apos;s</p>
           <p className="text-lg text-center w-2/3 opacity-60">
             Providing answers to your questions
           </p>

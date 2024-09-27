@@ -39,7 +39,7 @@ export default function Pricing() {
           buttonText="Best value"
           buttonColor="white"
           features={[
-            <span>
+            <span key="growth-1">
               <span className="text-[#B9FD50] font-semibold">
                 2x active task
               </span>{" "}

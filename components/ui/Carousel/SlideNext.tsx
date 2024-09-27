@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { useSwiper } from "swiper/react";
 
 export default function SlideNext() {

@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Outfit } from "next/font/google";
-import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/layouts/Header";
 import Footer from "@/components/layouts/Footer";
@@ -14,10 +13,6 @@ export const metadata: Metadata = {
 };
 
 const outfit = Outfit({
-  subsets: ["latin"],
-});
-
-export const plus_jarkarta_sans = Plus_Jakarta_Sans({
   subsets: ["latin"],
 });
 

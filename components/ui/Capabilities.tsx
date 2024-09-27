@@ -44,8 +44,8 @@ export default function Capabilities() {
             />
             <p className="font-medium text-xl py-8">1. On-demand requests</p>
             <p className="text-[#9593A4]">
-              Put all your requests in the design queue in Trello, and we'll
-              knock them out 1 by 1.
+              Put all your requests in the design queue in Trello, and
+              we&apos;ll knock them out 1 by 1.
             </p>
           </div>
           <div className="w-full p-8 border border-[#B9FD50]/[0.09]">
@@ -57,8 +57,8 @@ export default function Capabilities() {
             />
             <p className="font-medium text-xl py-8">2. Top-notch quality</p>
             <p className="text-[#9593A4]">
-              High-end work from a dedicated team of senior designers that's
-              always available when you need it.
+              High-end work from a dedicated team of senior designers
+              that&apos;s always available when you need it.
             </p>
           </div>
           <div className="w-full border border-[#B9FD50]/[0.09] p-8">
@@ -71,7 +71,7 @@ export default function Capabilities() {
             <p className="font-medium text-xl py-8">3. Powered by - Webflow</p>
             <p className="text-[#9593A4]">
               We build every site on Webflow, making them dynamic, accessible,
-              and easily scalable. It's easy for you like Squarespace but
+              and easily scalable. It&apos;s easy for you like Squarespace but
               better.
             </p>
           </div>
@@ -125,8 +125,8 @@ export default function Capabilities() {
             />
             <p className="font-medium text-xl py-8">7. Customized for you</p>
             <p className="text-[#9593A4]">
-              We design and build custom for you. We're never starting from a
-              template unless you want that? You don't, right?
+              We design and build custom for you. We&apos;re never starting from
+              a template unless you want that? You don&apos;t, right?
             </p>
           </div>
           <div className="w-full border border-[#B9FD50]/[0.09] p-8">
@@ -138,15 +138,16 @@ export default function Capabilities() {
             />
             <p className="font-medium text-xl py-8">8. Creative paying</p>
             <p className="text-[#9593A4]">
-              We're here when you need us and not on payroll when you don't.
+              We&apos;re here when you need us and not on payroll when you
+              don&apos;t.
             </p>
           </div>
           <div className="w-full border border-[#B9FD50]/[0.09] p-8">
             <Image src="/images/9_logo.png" width={40} height={40} alt="Work" />
             <p className="font-medium text-xl py-8">9. Expert turnovers</p>
             <p className="text-[#9593A4]">
-              You're getting 10+ years of design experience with every request.
-              No hand-holding required.
+              You&apos;re getting 10+ years of design experience with every
+              request. No hand-holding required.
             </p>
           </div>
         </div>

@@ -1,5 +1,4 @@
 import TrustedBrands from "@/components/ui/TrustedBrands";
-import { plus_jarkarta_sans } from "./layout";
 import Image from "next/image";
 import HowWeWork from "@/components/ui/HowWeWork";
 import Works from "@/components/ui/Works";
@@ -8,6 +7,11 @@ import Testimonial from "@/components/ui/Testimonial";
 import Pricing from "@/components/ui/Pricing";
 import NewsArticle from "@/components/ui/NewsArticle";
 import FAQ from "@/components/ui/FAQ";
+import { Plus_Jakarta_Sans } from "next/font/google";
+
+const plus_jarkarta_sans = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+});
 
 export default function Home() {
   return (

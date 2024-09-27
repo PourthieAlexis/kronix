@@ -29,9 +29,9 @@ export default function Carousel() {
               </p>
               <p className="text-lg text-[#111204] opacity-80 pb-9">
                 I recently hired <span className="font-bold">Ideapeel</span> for
-                a custom web development project and couldn't be happier with
-                the results. The team was able to bring my unique ideas to life
-                and create a website that truly stands out.
+                a custom web development project and couldn&apos;t be happier
+                with the results. The team was able to bring my unique ideas to
+                life and create a website that truly stands out.
               </p>
               <p className="font-bold text-xl text-[#111204] pb-2">
                 Diana Loreza
@@ -67,9 +67,9 @@ export default function Carousel() {
               </p>
               <p className="text-lg text-[#111204] opacity-80 pb-9">
                 I recently hired <span className="font-bold">Ideapeel</span> for
-                a custom web development project and couldn't be happier with
-                the results. The team was able to bring my unique ideas to life
-                and create a website that truly stands out.
+                a custom web development project and couldn&apos;t be happier
+                with the results. The team was able to bring my unique ideas to
+                life and create a website that truly stands out.
               </p>
               <p className="font-bold text-xl text-[#111204] pb-2">
                 Diana Loreza
