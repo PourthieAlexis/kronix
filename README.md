@@ -1,36 +1,33 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Implémentation de Design
 
-## Getting Started
+Ce projet est une pratique de développement frontend où j'ai implémenté un design Figma en code. Le design n'a pas été créé par moi, mais je l'ai utilisé pour améliorer mes compétences en développement web réactif.
 
-First, run the development server:
+## Technologies Utilisées
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js** : Framework basé sur React pour la construction d'applications web.
+- **Tailwind CSS** : Framework CSS utilitaire pour simplifier le style.
+- **Swiper.js** : Pour la mise en œuvre de carrousels et de curseurs.
+- **React Icons** : Pour les icônes utilisées dans tout le projet.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Crédit de Design
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Le design utilisé pour ce projet provient d'un modèle Figma créé par @shantogfx sur Figma. Le design m'a aidé à pratiquer la reproduction de composants d'interface utilisateur professionnels.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Installation
 
-## Learn More
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/PourthieAlexis/kronix.git
+   ```
+2. Installez les dépendances :
+   ```bash
+   npm install
+   ```
+3. Exécutez le projet localement :
+   ```bash
+   npm run dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+## Licence
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Ce projet est à des fins d'apprentissage personnel. Le design appartient à son créateur d'origine et est utilisé ici uniquement à des fins éducatives.
