@@ -2,6 +2,8 @@
 
 Ce projet est une pratique de développement frontend où j'ai implémenté un design Figma en code. Le design n'a pas été créé par moi, mais je l'ai utilisé pour améliorer mes compétences en développement web réactif.
 
+**Lien vers le site :** [Visiter le site](https://kronix-pourthie-alexis.vercel.app/)
+
 ## Technologies Utilisées
 
 - **Next.js** : Framework basé sur React pour la construction d'applications web.
